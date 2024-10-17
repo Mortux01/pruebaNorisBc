@@ -1,2 +1,1 @@
 # pruebaTecNorisBci
-# pruebaNorisBc
